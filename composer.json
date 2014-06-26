@@ -1,8 +1,8 @@
 {
-    "name": "excelwebzone/recaptcha-bundle",
-    "description": "This bundle provides easy reCAPTCHA form field integration",
+    "name": "newscoop/recaptcha-bundle",
+    "description": "This bundle provides easy reCAPTCHA form field integration, this is a fork of https://github.com/excelwebzone/EWZRecaptchaBundle",
     "keywords": ["recaptcha"],
-    "homepage": "https://github.com/excelwebzone/EWZRecaptchaBundle",
+    "homepage": "https://github.com/newscoop/EWZRecaptchaBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
